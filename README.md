@@ -8,9 +8,8 @@ A atividade consiste em explicar o que é "blockchain" e como funciona, à base 
 
 Grupo (3º F):
 
-Arthur Siwerski Stachowski e-mail: arthur.stachowski@etec.sp.gov.br
-
-(Nome) e-mail:
+Arthur Siwerski Stachowski -> e-mail: arthur.stachowski@etec.sp.gov.br
+João Victor Bezerra de Lima -> e-mail:joao.lima538@etec.sp.gov.br
 
 Professor:
 
