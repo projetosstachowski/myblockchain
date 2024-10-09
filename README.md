@@ -11,7 +11,7 @@ Grupo (3º F):
 Arthur Siwerski Stachowski -> e-mail: arthur.stachowski@etec.sp.gov.br
 
 João Victor Bezerra de Lima -> e-mail:joao.lima538@etec.sp.gov.br
-
+__________________________________________________________________________
 Professor:
 
 Bruno
